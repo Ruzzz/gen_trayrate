@@ -1,0 +1,37 @@
+/*
+** Tray Rating plugin for Winamp
+** Ruzzz [ ruzzzua@gmail.com / http://ruzzz.com ]
+*/
+
+#include "resource.h"
+#include <windows.h>
+
+IDI_ICON_STAR   ICON DISCARDABLE "icons/star.ico"
+IDI_ICON_STAR_H   ICON DISCARDABLE "icons/star_h.ico"
+
+IDI_ICON_STAR_S ICON DISCARDABLE "icons/star_s.ico"
+IDI_ICON_STAR_S_H ICON DISCARDABLE "icons/star_s_h.ico"
+
+IDI_ICON_STAR_B ICON DISCARDABLE "icons/star_b.ico"
+IDI_ICON_STAR_B_H ICON DISCARDABLE "icons/star_b_h.ico"
+
+IDI_ICON_STAR_0 ICON DISCARDABLE "icons/star_0.ico"
+IDI_ICON_STAR_1 ICON DISCARDABLE "icons/star_1.ico"
+IDI_ICON_STAR_2 ICON DISCARDABLE "icons/star_2.ico"
+IDI_ICON_STAR_3 ICON DISCARDABLE "icons/star_3.ico"
+IDI_ICON_STAR_4 ICON DISCARDABLE "icons/star_4.ico"
+IDI_ICON_STAR_5 ICON DISCARDABLE "icons/star_5.ico"
+
+/*IDR_MENU_TRAY MENU
+BEGIN
+  POPUP "Dummy Popup"
+  BEGIN
+    MENUITEM "5",IDM_5
+    MENUITEM "4",IDM_4
+    MENUITEM "3",IDM_3
+    MENUITEM "2",IDM_2
+    MENUITEM "1",IDM_1
+    MENUITEM "-",IDM_0
+  END
+END*/
+
